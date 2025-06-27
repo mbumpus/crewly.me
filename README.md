@@ -1,4 +1,3 @@
-// File: README.md
 # Crewly Landing Page
 
 This is the official landing page for **Crewly** – the first true Crew-as-a-Service™ platform.
