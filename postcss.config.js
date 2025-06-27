@@ -4,11 +4,3 @@ module.exports = {
     autoprefixer: {},
   },
 };
-
-// File: next.config.js
-module.exports = {
-  reactStrictMode: true,
-  images: {
-    domains: [],
-  },
-};
