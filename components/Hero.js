@@ -1,4 +1,3 @@
-// File: components/Hero.js
 export default function Hero() {
   return (
     <section className="min-h-screen bg-white text-navy flex items-center justify-center px-4 py-20">
